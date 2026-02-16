@@ -7,10 +7,9 @@
 ---
 
 ## 课程资源与工具
-* **编程语言**: Python 3.x (代码占比 100%)
+* **编程语言**: Python 3.x
 * **核心库**: NumPy, Matplotlib, Pandas (部分涉及 Scikit-learn)
-* **实验环境**: Jupyter Notebook / PyCharm
-* **实验教材**: 《人工智能导论》及相关课件
+* **实验环境**: Jupyter Notebook / vscode
 
 ---
 
